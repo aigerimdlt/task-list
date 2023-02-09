@@ -1,0 +1,59 @@
+{
+  "contacts": [
+    {
+      "id": "fGEHEHG",
+      "name": "Кайрат Избасаров",
+      "company": "EN",
+      "email": "fox_em@mail.ru",
+      "title": "Задача по визиуалу",
+      "mobile": "870845822",
+      "groupID": "6"
+    },
+    {
+      "name": "Олег Костылев",
+      "photo": "ааааа",
+      "email": "",
+      "mobile": "ыыыы",
+      "company": "аааааа",
+      "title": "Внедрение оборудование",
+      "groupID": "",
+      "id": "-5_dpN2"
+    },
+    {
+      "name": "Айна Мурат",
+      "photo": "ааааа",
+      "email": "",
+      "mobile": "ыыыы",
+      "company": "аааааа",
+      "title": "Задача рендера",
+      "groupID": "",
+      "id": "deKLjed"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Frontend"
+    },
+    {
+      "id": "2",
+      "name": "Backend"
+    },
+    {
+      "id": "3",
+      "name": "IOS developer"
+    },
+    {
+      "id": "4",
+      "name": "Android developer"
+    },
+    {
+      "id": "5",
+      "name": "Analytic"
+    },
+    {
+      "id": "6",
+      "name": "Devops"
+    }
+  ]
+}
